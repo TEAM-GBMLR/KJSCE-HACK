@@ -21,6 +21,8 @@ jQuery(document).ready(function() {
         $(this).removeClass('input-error');
     });
 
+
+
     $('fieldset.ideator').hide();
     $('input[name="ideator"]').click(function() {
         if (this.checked) {
@@ -61,10 +63,32 @@ jQuery(document).ready(function() {
         }
     });
 
+
+
     // next step
     $('.registration-form .btn-next').on('click', function() {
         var parent_fieldset = $(this).parents('fieldset');
         var next_step = true;
+
+        // $('fieldset.developer').hide();
+        // $('input[name="developer"]').click(function() {
+        //     if (this.checked) {
+        //         $('fieldset.developer').show();
+        //     } else {
+        //         $('fieldset.developer').hide();
+        //     }
+        // });
+
+
+        // $('fieldset.other').hide();
+        // $('input[name="other"]').click(function() {
+        //     if (this.checked) {
+        //         $('fieldset.other').show();
+        //     } else {
+        //         $('fieldset.other').hide();
+        //     }
+        // });
+
 
         parent_fieldset.find('input[type="text"], input[type="password"], textarea').each(function() {
             if ($(this).val() == "") {

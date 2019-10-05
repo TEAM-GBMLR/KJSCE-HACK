@@ -5,11 +5,6 @@ body {
     color: #888;
     line-height: 30px;
     text-align: center;
-    background: rgb(59, 195, 236);
-    background: -webkit-linear-gradient(to right, rgb(25, 179, 226), rgb(7, 172, 223));
-    background: linear-gradient(to right, rgba(79, 200, 209, 0.822), rgb(140, 84, 148));
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 strong {
@@ -174,7 +169,7 @@ ul.navbar-nav {
 }
 
 .navbar-brand {
-    width: 180px;
+    width: 170px;
     background: url(../img/2.jpg) left center no-repeat;
     text-indent: -99999px;
 }
