@@ -9,7 +9,7 @@
 
 > ## [Backend HTTP endpoints](https://github.com/vedangparasnis/firebase-backend- "backend")
 
-> ## [PPT](https://docs.google.com/presentation/d/18imMPc99OnRY0K84HY592O7hqkBqkJ2beVTVmu2EtpI/edit?usp=sharing "KJSCE HACK - TEAM GBMLR PPT")
+> ## [Project idea presentation](https://docs.google.com/presentation/d/18imMPc99OnRY0K84HY592O7hqkBqkJ2beVTVmu2EtpI/edit?usp=sharing "KJSCE HACK - TEAM GBMLR PPT")
 
 
 
