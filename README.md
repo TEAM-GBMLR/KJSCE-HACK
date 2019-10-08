@@ -1,9 +1,7 @@
 <div align="center">
     <img src="./hack/Hack.gif">
-    
     <p><b>KJSCE Hackathon 2k19's official  website</b></p>
-    
-  <h3> Team GBMLR </h3>
+    <h3> Team GBMLR </h3>
 </div>
 
 </div>
