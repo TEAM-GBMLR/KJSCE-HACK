@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="./hack/login.JPG" width=900px/>
+<img src="./hack/login.JPG" width=800px/>
 <br>
 <br>
 </div>
@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img src="./hack/register1.JPG" width=900px/>
-<img src="./hack/register2.JPG" width=900px/>
+<img src="./hack/register1.JPG" width=800px/>
+<img src="./hack/register2.JPG" width=800px/>
 <br>
 <br>
 </div>
@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<img src="./hack/Dashboard.JPG" width=900px/>
-<img src="./hack/Projects List.JPG" width=900px/>
+<img src="./hack/Dashboard.JPG" width=800px/>
+<img src="./hack/Projects List.JPG" width=800px/>
 <br>
 <br>
 </div>
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="./hack/PROJECT DASHBOARD.JPG" width=900px/>
+<img src="./hack/PROJECT DASHBOARD.JPG" width=800px/>
 <br>
 <br>
 </div>
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img src="./hack/image.png" width=900px/>
+<img src="./hack/image.png" width=800px/>
 <br>
 <br>
 </div>
@@ -99,6 +99,20 @@
 > #### [Backend HTTP endpoints](https://github.com/vedangparasnis/firebase-backend- "backend")
 
 > #### [Project idea presentation](https://docs.google.com/presentation/d/18imMPc99OnRY0K84HY592O7hqkBqkJ2beVTVmu2EtpI/edit?usp=sharing "KJSCE HACK - TEAM GBMLR PPT")
+
+
+### Technologies used
+
+
+* [x] HTML5
+* [x] CSS3
+* [x] Javascript
+* [x] jquery
+* [x] Boostrap
+* [x] Firebase
+* [x] Soket .io
+* [x] node.js
+* [x] Express.js
 
 
 ---
