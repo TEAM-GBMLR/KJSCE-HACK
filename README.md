@@ -117,5 +117,5 @@
 
 ---
 
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/vedangparasnis">Vedang Parasnis </a> , <a href="https://github.com/pugnator-12"> Priya mane</a> , <a href="https://github.com/pratik6725">Pratik merchant</a> and <a href="https://github.com/hritik5102">Hritik jaiswal</a>.</b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/vedangparasnis">Vedang Parasnis </a> , <a href="https://github.com/pugnator-12"> Priya Mane</a> , <a href="https://github.com/pratik6725">Pratik Merchant</a> and <a href="https://github.com/hritik5102">Hritik Jaiswal</a>.</b></h1>
 
