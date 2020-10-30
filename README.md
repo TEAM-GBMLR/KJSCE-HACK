@@ -4,17 +4,17 @@
     <p><b>KJSCE Hackathon 2k19 </b></p>
 </div>
 
-## Team name : *Team GBMLR* :sunglasses:
+## Team Name : *Team GBMLR* :sunglasses:
 
-  - [Need of the Project](#Need-for-the-project-(Why?))
+  - [Need of the project](#Need-for-the-project-(Why?))
   - [About the idea (How?)](#About-the-idea-(How?))
-  - [Scope of project](#Scope-of-project)
-  - [Login page](#Login-page)
-  - [Register page](#Register-page)
+  - [Scope of the project](#Scope-of-project)
+  - [Login Page](#Login-page)
+  - [Registeration Page](#Register-page)
   - [User Dashboard](#User-Dashboard)
   - [Product Dashboard](Product-Dashboard)
-  - [Chat room](Chat-room)
-  - [Teck stack](Tech-stack)
+  - [Chat Room](Chat-room)
+  - [Teck Stack](Tech-stack)
   - [Clone git repository](#clone-git-repository)
   - [License](#License)
   - [Contributors](#Contributors)
@@ -40,7 +40,7 @@
 10. Deployed in the market              
 
 
-## Scope of project
+## Scope of the project
 
 * This project would help the ideators to turn their dream ideas into reality faster.
 
@@ -49,7 +49,7 @@
 * Would provide a very good opportunity for freelancers to take up short term projects and would also help students to test their practical concepts by working on a real-life project.
 
 
-## Login page
+## Login Page
 
 <div align="center">
 <img src="./hack/login.JPG" width="70%"/>
@@ -57,7 +57,7 @@
 <br>
 </div>
 
-## Register page
+## Registeration Page
 
 <div align="center">
 <img src="./hack/register1.JPG" width="70%"/>
@@ -88,7 +88,7 @@
 </div>
 
 
-## Chat room
+## Chat Room
 
 <div align="center">
 
@@ -108,7 +108,7 @@
 * [Project idea presentation](https://docs.google.com/presentation/d/18imMPc99OnRY0K84HY592O7hqkBqkJ2beVTVmu2EtpI/edit?usp=sharing "KJSCE HACK - TEAM GBMLR PPT")
 
 
-## Tech stack
+## Tech Stack
 
 * [x] HTML5
 * [x] CSS3
@@ -135,9 +135,9 @@ Git clone "[https://github.com/TEAM-GBMLR/KJSCE-HACK](https://github.com/TEAM-GB
 
 | Name            | Email :e-mail:              |
 | --------------- | --------------------------- |
-| Vedang parasnis | vedang.parasnis@somaiya.edu |
-| Priya mane      | priya.hm@somaiya.edu        |
-| Pratik merchant | pratik.merchant@somaiya.edu |
+| Vedang Parasnis | vedang.parasnis@somaiya.edu |
+| Priya Mane      | priya.hm@somaiya.edu        |
+| Pratik Merchant | pratik.merchant@somaiya.edu |
 | Hritik Jaiswal  | hritik.jaiswal@somaiya.edu  |
 
 
